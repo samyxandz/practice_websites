@@ -1,5 +1,5 @@
 <h1><strong>Fun website</strong> </h1>
-<hr>
+
 <br>
 <div>
 <p>This Folder contains all the code require to build a fun little website .
