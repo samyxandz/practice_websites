@@ -16,7 +16,7 @@ This website was made by me to test out basic knowledge in javasciprt along with
     <li>Random riddle generator</li>
 </ol>
    The riddle generator was design in such a way that the answer could be shown with another button.<br>
-   If the user alreay had an answer or wanter an answer withou generating a riddle,an alert would be thrown.
+   If the user alreay had an answer or wanter an answer without generating any riddle,an alert would be thrown.
 </p>
 </div>
 <br><br>
